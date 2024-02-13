@@ -6,6 +6,9 @@ Template Engine EJS
 <img width="870" alt="image" src="https://github.com/yashgulati991/NodeJS/assets/83648916/d016f075-c5a0-450d-b5fe-78856a42eb72">
 Connection Of MongoDB with Nodejs all json format data is readed through Node Server Connection
 <img width="901" alt="image" src="https://github.com/yashgulati991/NodeJS/assets/83648916/2baa530f-4a08-494b-a123-49c9d8e9f4d1">
+MongodbCrud from Node js 
+<img width="855" alt="image" src="https://github.com/yashgulati991/NodeJS/assets/83648916/992ac50c-337d-4017-bddd-640fcd694cc5">
+
 
 
 
