@@ -8,6 +8,9 @@ Connection Of MongoDB with Nodejs all json format data is readed through Node Se
 <img width="901" alt="image" src="https://github.com/yashgulati991/NodeJS/assets/83648916/2baa530f-4a08-494b-a123-49c9d8e9f4d1">
 MongodbCrud from Node js 
 <img width="855" alt="image" src="https://github.com/yashgulati991/NodeJS/assets/83648916/992ac50c-337d-4017-bddd-640fcd694cc5">
+Mongoose operations CRUD with model and schema 
+<img width="633" alt="image" src="https://github.com/yashgulati991/NodeJS/assets/83648916/40801c1c-720b-4df6-a686-e358022ea103">
+
 
 
 
